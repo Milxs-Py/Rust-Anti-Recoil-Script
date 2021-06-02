@@ -1,0 +1,11 @@
+﻿  Skype.cpp
+C:\Users\Milxs\source\repos\Skype\mouse.h(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Milxs\source\repos\Skype\mouse.h(22,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Milxs\source\repos\Skype\mouse.h(22,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Milxs\source\repos\Skype\mouse.h(23,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Milxs\source\repos\Skype\mouse.h(23,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Milxs\source\repos\Skype\mouse.h(24,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Milxs\source\repos\Skype\mouse.h(24,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Milxs\source\repos\Skype\mouse.h(25,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Milxs\source\repos\Skype\mouse.h(25,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Skype.vcxproj -> C:\Users\Milxs\source\repos\Skype\Debug\Skype.exe
